@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/stdTable
-    username: root
-    password: qkdrmfdl03
+    url: jdbc:mysql://likelion-database.c9qy0akgsvnw.ap-northeast-2.rds.amazonaws.com:3306
+    username: likelion
+    password: likelion1234
 
   jpa:
     hibernate:
